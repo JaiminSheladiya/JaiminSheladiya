@@ -2,6 +2,20 @@
 
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="780" />
 
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=yellow)
+<br />
+![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=yellow)
+
+
+
 <a href='https://github-readme-stats.vercel.app/api/top-langs/?username=JaiminSheladiya&theme=outrun'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiminSheladiya&theme=outrun"  height="190px" />
 </a>
