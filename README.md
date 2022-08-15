@@ -6,13 +6,19 @@
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=yellow)
 <br />
-![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=yellow)
+
+![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=nodejs&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=yellow)
 
 
 ## &#x1f4c8; GitHub Stats
