@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=yellow)
 
 
+## &#x1f4c8; GitHub Stats
 
 <a href='https://github-readme-stats.vercel.app/api/top-langs/?username=JaiminSheladiya&theme=outrun'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiminSheladiya&theme=outrun"  height="190px" />
@@ -23,7 +24,9 @@
   <a href= 'https://github-readme-stats.vercel.app/api?username=JaiminSheladiya&count_private=true&theme=outrun&show_icons=true'>
   <img align="center" cursor='none' src="https://github-readme-stats.vercel.app/api?username=JaiminSheladiya&count_private=true&theme=outrun&show_icons=true"  height="190px" />
   </a>
-
+ 
+ 
+ 
 
 <!--
 **JaiminSheladiya/JaiminSheladiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
