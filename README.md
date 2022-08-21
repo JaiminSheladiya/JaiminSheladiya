@@ -38,10 +38,10 @@
   
 ## Checkout my Resume & Portfolio
 
-<a href='https://drive.google.com/file/d/1NWhUpvHKe6_dxSrfl_CF0WqP8fbwBK03/view?usp=sharing' style = "color : white" target='_blank'><h3>RESUME 🎯</h3></a> 
-<a href='https://jaimin-portfolio.netlify.app/' style = "color : blue"  target='_blank'><h3>PORTFOLIO 🚀</h3></a> 
+[RESUME 🎯]([https://jaimin-portfolio.netlify.app/](https://drive.google.com/file/d/1NWhUpvHKe6_dxSrfl_CF0WqP8fbwBK03/view?usp=sharing))
+[PORTFOLIO 🚀](https://jaimin-portfolio.netlify.app/)
 
- 
+
  <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/jaiminsheladiya/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanu-mohapatra-880204200" height="30" width="40" /></a>
