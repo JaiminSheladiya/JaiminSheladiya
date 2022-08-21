@@ -38,16 +38,16 @@
   
 ## Checkout my Resume & Portfolio
 
-<a href='https://drive.google.com/file/d/1NWhUpvHKe6_dxSrfl_CF0WqP8fbwBK03/view?usp=sharing' style = "color : white" target='blank'><h3>RESUME 🎯</h3></a> 
-<a href='https://jaimin-portfolio.netlify.app/' target='blank'><h3>PORTFOLIO 🚀</h3></a> 
+<a href='https://drive.google.com/file/d/1NWhUpvHKe6_dxSrfl_CF0WqP8fbwBK03/view?usp=sharing' style = "color : white" target='_blank'><h3>RESUME 🎯</h3></a> 
+<a href='https://jaimin-portfolio.netlify.app/' style = "color : blue"  target='_blank'><h3>PORTFOLIO 🚀</h3></a> 
 
  
  <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/jaiminsheladiya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanu-mohapatra-880204200" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100008489898991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="7008467376.shaan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jaimins106/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaan_tanu_jr" height="30" width="40" /></a>
-<a href="mailto:jaimins365635@gmail.com?subject=Regarding Contact" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaiminsheladiya/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanu-mohapatra-880204200" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008489898991" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="7008467376.shaan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jaimins106/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaan_tanu_jr" height="30" width="40" /></a>
+<a href="mailto:jaimins365635@gmail.com?subject=Regarding Contact" target="_blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" height="30" width="40" /></a>
 </p>
 
  <p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
