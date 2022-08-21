@@ -36,8 +36,10 @@
   <img align="center" cursor='none' src="https://github-readme-streak-stats.herokuapp.com/?user=JaiminSheladiya&theme=radical&hide_border=false"  height="190px" />
   </a>
   
+## Checkout my Resume & Portfolio
 
-
+<a href='https://drive.google.com/file/d/1NWhUpvHKe6_dxSrfl_CF0WqP8fbwBK03/view?usp=sharing' style = "color : white" target='blank'><h3>RESUME 🎯</h3></a> 
+<a href='https://jaimin-portfolio.netlify.app/' target='blank'><h3>PORTFOLIO 🚀</h3></a> 
 
  
  <h3 align="center">Connect with me:</h3>
