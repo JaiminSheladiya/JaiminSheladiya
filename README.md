@@ -38,7 +38,8 @@
   
 ## Checkout my Resume & Portfolio
 
-[RESUME 🎯]([https://jaimin-portfolio.netlify.app/](https://drive.google.com/file/d/1NWhUpvHKe6_dxSrfl_CF0WqP8fbwBK03/view?usp=sharing))
+
+[RESUME 🎯](https://drive.google.com/file/d/1NWhUpvHKe6_dxSrfl_CF0WqP8fbwBK03/view?usp=sharing)
 [PORTFOLIO 🚀](https://jaimin-portfolio.netlify.app/)
 
 
