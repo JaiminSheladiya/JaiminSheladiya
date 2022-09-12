@@ -35,7 +35,7 @@
   <a href= 'https://github-readme-streak-stats.herokuapp.com/?user=JaiminSheladiya&theme=radical&hide_border=false' >
   <img align="center" cursor='none' src="https://github-readme-streak-stats.herokuapp.com/?user=JaiminSheladiya&theme=radical&hide_border=false"  height="190px" />
   </a>
-  
+  <br />
   <a href="http://www.github.com/JaiminSheladiya"><img src="https://activity-graph.herokuapp.com/graph?username=JaiminSheladiya&bg_color=0D1147&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
   
