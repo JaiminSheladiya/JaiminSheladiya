@@ -36,7 +36,7 @@
   <img align="center" cursor='none' src="https://github-readme-streak-stats.herokuapp.com/?user=JaiminSheladiya&theme=radical&hide_border=false"  height="190px" />
   </a>
   
-## Projects
+## 🚧 Projects
 
 
 <a href="https://github.com/Randhir200/expert-hand-9078">
@@ -55,7 +55,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Banggood-Clone&theme=radical" height="150px"  />
 </a>    
   
-## Checkout my Resume & Portfolio
+## 🐬 Checkout my Resume & Portfolio
 
 
 ## [RESUME 🎯](https://drive.google.com/file/d/1NWhUpvHKe6_dxSrfl_CF0WqP8fbwBK03/view?usp=sharing)
