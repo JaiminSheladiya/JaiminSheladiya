@@ -43,19 +43,19 @@
 
 
 <a href="https://github.com/Randhir200/expert-hand-9078">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Randhir200&repo=expert-hand-9078&theme=radical" height="150px"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Randhir200&repo=expert-hand-9078&theme=radical"   />
 </a>    
 
 <a href="https://github.com/Sumit-Gangwar/Farfetch-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-Gangwar&repo=Farfetch-Project&theme=radical" height="150px"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumit-Gangwar&repo=Farfetch-Project&theme=radical"  />
 </a>    
 
 <a href="https://github.com/JaiminSheladiya/Uboric-website-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaiminSheladiya&repo=Uboric-website-clone&theme=radical" height="150px"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaiminSheladiya&repo=Uboric-website-clone&theme=radical" />
 </a>    
 
 <a href="https://github.com/Kunal-Ladhani/Banggood-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Banggood-Clone&theme=radical" height="150px"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Banggood-Clone&theme=radical"  />
 </a>    
   
 ## 🐬 Checkout my Resume & Portfolio
