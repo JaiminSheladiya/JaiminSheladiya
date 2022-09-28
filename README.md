@@ -66,8 +66,8 @@ interfaces with excellent usability. 🧑‍💻
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaiminSheladiya&repo=Uboric-website-clone&theme=radical" />
 </a>    
 
-<a href="https://github.com/Kunal-Ladhani/Banggood-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kunal-Ladhani&repo=Banggood-Clone&theme=radical"  />
+<a href="https://github.com/JaiminSheladiya/BanggoodClone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JaiminSheladiya&repo=BanggoodClone&theme=radical"  />
 </a>    
   
 ## 🐬 Checkout my Resume & Portfolio
