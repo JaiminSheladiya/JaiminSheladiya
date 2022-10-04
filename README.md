@@ -69,7 +69,7 @@ interfaces with excellent usability. 🧑‍💻
 ## 🐬 Checkout my Resume & Portfolio
 
 
-## [RESUME 🎯](https://drive.google.com/file/d/1NWhUpvHKe6_dxSrfl_CF0WqP8fbwBK03/view?usp=sharing)
+## [RESUME 🎯](https://drive.google.com/file/d/1syWNOAFAPszSYwreTyJGPGQoTAUtspDj/view?usp=sharing)
 ## [PORTFOLIO 🚀](https://jaimin-portfolio.netlify.app/)
 
 
