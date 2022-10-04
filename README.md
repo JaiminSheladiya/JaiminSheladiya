@@ -1,17 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+web+Developer;More+than+1500+Hours+Hard+Work;More+than+200+sleepless+nights)](https://git.io/typing-svg)
 
-<h2> Hi there! I'm Jaimin, I'm an aspiring MERN Full Stack Web Developer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
-
-<p>
+<h3> Hi there! I'm Jaimin, I'm an aspiring MERN Full Stack Web Developer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 I like to design all kind of things. I specialize in front end
 and backend development. 
-</p>
-<p>I have a passion for making beautiful
+I have a passion for making beautiful
 interfaces with excellent usability. 🧑‍💻
-</p>
- <p>
+
   currently i'm Learning full-stack web developement from Masai school , Banglore, India.
-</p>
+</h3>
            
 
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="780" />
