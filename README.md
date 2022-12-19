@@ -47,7 +47,7 @@ interfaces with excellent usability. 🧑‍💻
   <a href="http://www.github.com/JaiminSheladiya"><img src="https://activity-graph.herokuapp.com/graph?username=JaiminSheladiya&bg_color=0D1147&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
   
-## 🚧 Projects
+## 🚧 Projects 🚧
 
 
 <a href="https://github.com/Randhir200/expert-hand-9078">
